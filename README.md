@@ -10,3 +10,7 @@ Find customers that are loyal and recurring. This helps business build statergie
 
 ## CAVEATS
 Keep in mind data redundancy and limited resources.
+
+## NOTE
+The data might be incomplete as it was sensitive in nature. 
+The output shown is a rough sketch, the final dashboard can not be shared due to policy. 
